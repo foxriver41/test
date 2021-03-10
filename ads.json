@@ -2,7 +2,7 @@
     "JData":{
         "AdsCtrl":
         {
-            "AdNetwork": "admob",
+            "AdNetwork": "f",
             
             "BanAdmo": "ca-app-pub-3940256099942544/6300978111",
             "InterAdmo": "ca-app-pub-3940256099942544/1033173712",
